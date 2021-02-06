@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+
+I want to get back into relearning PHP, HTML and CSS coding.  I am finding my feet back into the IT field, after being out of it for 8 years so I am quite rusty in my IT skills. I am looking to work in DevOps and software testing in due time when I have reacquired my coding skills back to where it used to be.  
+
+I am currently studying CompTIA Network+ and aim to write my exam soon, hopefully to pass this time.  Then I will be going onto CompTIA Security+ and obtain my certification hopefully before August this year.  
 
 <!--
 **BloodrayneZA/bloodrayneza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
